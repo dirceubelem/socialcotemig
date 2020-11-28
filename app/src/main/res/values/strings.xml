@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SocialCotemig</string>
+    <string name="splash_title">Compartilhe suas fotos\ncom seus\namigos</string>
+    <string name="splash_subtitle">Instagram é o melhor app de fotos...</string>
+    <string name="login_login">Log In</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_signup">Don’t have an account? <b>Sign Up</b></string>
+
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_name">Name</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_confirmpassword">Confirm Password</string>
+    <string name="signup_login">Already have an account? <b>Log In</b></string>
+
+    <string name="title">Ops</string>
+    <string name="userAndPasswordInvalid">Usuário ou senha inválidos</string>
+    <string name="ok">Ok</string>
+
+    <string name="success">Sucesso</string>
+    <string name="userCreated">Usuário criado com sucesso!</string>
+    <string name="userExists">Usuário com este e-mail já está cadastrado!</string>
+    <string name="passwordInvalid">As senhas precisam ser iguais</string>
+
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <string name="generic_error">Alguma coisa não está certa. Tente novamente mais tarde.</string>
+    <string name="logoff">Logoff</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feed">Feed</string>
+</resources>

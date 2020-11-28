@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#000000ff</color>
+
+    <color name="orange1">#ff9509</color>
+    <color name="orange2">#fe2042</color>
+
+    <color name="namecolor">#0d0e15</color>
+    <color name="datecolor">#768196</color>
+
+    <color name="backgroundfeed">#edeef0</color>
+
+    <color name="colorchat">#3f5498</color>
+    <color name="backgroundchat">#f5f5f5</color>
+    <color name="textcolorchat">#4a4a4a</color>
+</resources>
